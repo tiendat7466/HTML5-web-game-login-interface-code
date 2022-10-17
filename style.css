@@ -1,0 +1,51 @@
+ul,li {
+    list-style: none;
+}
+section div { 
+
+    margin-left: 350px;
+    color: white;
+}
+div p { 
+    margin-left: 90px;
+    font-size: 20px;
+}
+section { margin-top: 150px;
+margin-left: 150px;
+}
+#option { 
+    margin-left: 390px;
+    margin-top: 10px;
+    font-size: 0px;
+}
+#select { 
+    margin-left: 390px;
+ margin-top: 10px;
+}
+#tinh { 
+    margin-left: 390px;
+    margin-top: 30px;
+}
+#button { 
+    margin-left: 430px;
+    margin-top: 30px;
+}
+#tk{
+    margin-top: 5px;
+}
+#notk{
+    margin-top: 10px;
+}
+#mk{
+    margin-top:  10px;
+}
+#nomk{
+    margin-top: 10px;
+}
+#para { 
+    margin-left: 335px;
+}
+body{
+    background-image: url(https://symbols.vn/wp-content/uploads/2021/11/Kho-Hinh-Nen-Dong-Lien-Quan-dep-nhat.gif); 
+    background-size: cover;
+}
